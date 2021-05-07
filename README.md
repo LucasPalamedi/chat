@@ -56,7 +56,7 @@ const Simple = () => (
   <div>Simple Component</div>
 )
 
-export default Simple // don't forget to export default!
+export default Simple // não esqueca de exportar "default"!
 ```
 
 ### `./components/Complex.js`
@@ -102,4 +102,4 @@ _Note: `getInitialProps` **NAO** pode ser usado em components "children". Apenas
 
 ## Testando
 
-Create a file named like `ComponentName.test.js`, and run `npm run test`, snapshoting tests are also included.
+Crie um arquivo tipo assim --> `ComponentName.test.js`, e depois --> `npm run test.
