@@ -53,7 +53,7 @@ Prefiro deixar os documentos React em `./components` e devem aparecer assim
 
 ```jsx
 const Simple = () => (
-  <div>Simple Component</div>
+  <div>Componente Simples</div>
 )
 
 export default Simple // não esqueca de exportar "default"!
